@@ -1,0 +1,4 @@
+BillingNumber,meterNumber,Consumption,BillingMonth,Year,AmountDue,Paid
+1000,1,1,none,1900,1,none
+1001,10001,10,November,2018,130,Yes
+1002,10002,9,November,2018,180,No

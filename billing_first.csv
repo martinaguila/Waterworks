@@ -1,0 +1,6 @@
+meterNumber,recent_billing,new_billing,Month,Year,id
+1000,0,0,,0,1
+10001,0,0,none,0,21
+10002,0,0,none,0,22
+10001,0,10,November,2018,23
+10002,0,9,November,2018,24
